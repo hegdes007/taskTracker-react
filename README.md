@@ -1,9 +1,6 @@
 # task-tracker
 A React App to track tasks added in it. It uses the local storage to store tasks.
 
-[Check the live site here](https://react-tasks-tracker.herokuapp.com/)
-
-
 
 ## Getting Started with Create React App
 
